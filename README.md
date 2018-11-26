@@ -1,5 +1,9 @@
 # VUE CLI3 多页面 demo
-### 主要内容配置elementUI, cli3 多页面，多页面下的单页面（SPA）路由配置
+
+### 主要内容：
+*elementUI
+*cli3 多页面
+*多页面下的单页面（SPA）路由配置
 
 ## Project setup
 ```
