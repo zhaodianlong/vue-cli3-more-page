@@ -1,6 +1,5 @@
 const fs = require("fs");
 const glob = require("glob");
-// const px2vw = require("postcss-px-to-viewport")
 
 const pages = {};
 let entries;
